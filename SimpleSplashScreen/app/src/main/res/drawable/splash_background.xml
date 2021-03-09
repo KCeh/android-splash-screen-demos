@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="opaque">
+
+    <item
+        android:drawable="@drawable/gradient_welcome" />
+
+    <item
+        android:width="150dp"
+        android:height="150dp"
+        android:drawable="@drawable/ic_baseline_5g_24"
+        android:gravity="center" />
+
+    <item
+        android:drawable="@drawable/logo_text"
+        android:gravity="center"
+        android:top="300dp" />
+</layer-list>

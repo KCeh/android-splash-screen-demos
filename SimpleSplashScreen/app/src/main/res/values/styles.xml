@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="colorPrimaryVariant">#0E4181</item>
+        <item name="colorPrimary">#2260AD</item>
+        <item name="colorOnPrimary">#0062D3</item>
+        <item name="colorSecondary">#3480EC</item>
+        <item name="colorSecondaryVariant">#A7AEE2</item>
+        <item name="colorOnSecondary">#803480EC</item>
+        <item name="colorError">#F44336</item>
+    </style>
+
+
+    <style name="AppTheme.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
