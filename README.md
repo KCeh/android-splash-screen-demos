@@ -1,5 +1,7 @@
 # Android Splash Screen Demos
 
+Note: all listed ways are legacy implementations berfore Android 12 (S). Android 12 offers [SplashScreen API](https://developer.android.com/about/versions/12/features/splash-screen) to implement splash screen. 
+
 ## Simple Splash Screen
 Uses theme (styles.xml) to show static splash screen. Simple but effective way.
 <br>
